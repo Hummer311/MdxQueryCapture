@@ -41,3 +41,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Directories created during build
+bin
+obj
+*.suo
+*.csproj.user
+
+
